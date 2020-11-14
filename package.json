@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/binomoferdi/ferdinand"
+    "url": "git+https://github.com/binomoferdi/ferdinandbot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/binomoferdi/ferdinand/issues"
+    "url": "https://github.com/binomoferdi/ferdinandbot/issues"
   },
-  "homepage": "https://github.com/binomoferdi/ferdinand#readme"
+  "homepage": "https://github.com/binomoferdi/ferdinandbot#readme"
 }
