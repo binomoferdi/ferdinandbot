@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/binomoferdi/ferdinand
-> cd ferdinand
+> git clone https://github.com/binomoferdi/ferdinandbot
+> cd ferdinandbot
 > bash install.sh
 > node index.js
 ```
